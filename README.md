@@ -1,16 +1,18 @@
-## Hi there 👋
+## About Me
+Hey, I'm **L9G**, an Albanian developer based in Germany, specializing in **Roblox game development, process automation and Reverse Engineering.**
 
-<!--
-**realL9G/reall9g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience & Expertise
+- **4 years** of experience in **Roblox development** (Luau, backend, frontend)
+- **2.5 years** of **Python experience**, focusing on automation, web scraping, and Discord bots
+- **4 months** of **C++ experience**, focusing on memory manipulation & code injection techniques
 
-Here are some ideas to get you started:
+## Technologies I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages:
+[![My Skills](https://skillicons.dev/icons?i=lua,py,cpp,js)]()
+
+### Development Tools:
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,robloxstudio&theme=dark)]()
+
+---
+[![twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png)](https://x.com/NotL9G)
