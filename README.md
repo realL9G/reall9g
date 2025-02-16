@@ -13,6 +13,3 @@ Hey, I'm **L9G**, an Albanian developer based in Germany, specializing in **Robl
 
 ### Development Tools:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,robloxstudio&theme=dark)]()
-
----
-[![twitter](https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png)](https://x.com/NotL9G)
